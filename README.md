@@ -32,23 +32,22 @@ Laptop Drivers Download Utility is compatible with all versions of Windows opera
 Do you want to update Asus Driver? Yes, this is the right place!<br /><br />
 
 How to download Asus drivers – Let’s know steps:<br /><br />
-
-    1. Download and install <a href="http://asusdriversdownload.webs.com/">Laptop Drivers Download</a> Utility.<br />
-       Click the button Start Scan to scan for the drivers.<br />
-    2. Scanning your outdated drivers.<br />
-       Browse and choose the drivers you want to fix or update, and then click the button Download to download the drivers.<br />
-    3. Updating your drivers.<br />
-       Install the downloaded drivers.<br /><br />
+Download and install <a href="http://asusdriversdownload.webs.com/">Laptop Drivers Download</a> Utility.<br />
+Click the button Start Scan to scan for the drivers.<br />
+Scanning your outdated drivers.<br />
+Browse and choose the drivers you want to fix or update, and then click the button Download to download the   drivers.<br />
+Updating your drivers.<br />
+Install the downloaded drivers.<br /><br />
 <img src="http://c.lionsea.net//bonnie/driver%20majia1%20.png" /><br /><br />
 
 More articles you can read: <br /><br />
 
 
-<a href="http://www.tucows.com/preview/1595014">HP laptop drivers download</a>
-<a href="http://laptop-drivers-download-utility.updatestar.com/">Samsung laptop drivers download</a>
-<a href="http://www.windows8downloads.com/win8-laptop-drivers-download-utility-fawspolf/">Song Vaio laptop drivers download</a>
-<a href="https://www.youtube.com/watch?v=k5dg08c5S7E">BenQ laptop drivers download</a>
-<a href="http://laptop-drivers-download-utility.software.informer.com/">Dell laptop drivers download</a>
-<a href="http://laptop-drivers-download-utility.soft112.com/">Acer laptop drivers download</a>
-<a href="http://laptopdriversupdate.weebly.com/">Toshiba laptop drivers download</a>
+<a href="http://www.tucows.com/preview/1595014">HP laptop drivers download</a><br />
+<a href="http://laptop-drivers-download-utility.updatestar.com/">Samsung laptop drivers download</a><br />
+<a href="http://www.windows8downloads.com/win8-laptop-drivers-download-utility-fawspolf/">Song Vaio laptop drivers download</a><br />
+<a href="https://www.youtube.com/watch?v=k5dg08c5S7E">BenQ laptop drivers download</a><br />
+<a href="http://laptop-drivers-download-utility.software.informer.com/">Dell laptop drivers download</a><br />
+<a href="http://laptop-drivers-download-utility.soft112.com/">Acer laptop drivers download</a><br />
+<a href="http://laptopdriversupdate.weebly.com/">Toshiba laptop drivers download</a><br />
 
